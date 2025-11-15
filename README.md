@@ -1,0 +1,2 @@
+# SchwyzerWintersportlager
+Lagerplanung
