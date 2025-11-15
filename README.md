@@ -31,7 +31,7 @@ Karte mit Verfolgungsspur und X wird abgeben.
 
 Aufgabe: Ort mit X in Skigebiet finden
 
-Subhinweis:
+Subhinweis: Nagellack an Christine von Handgemenge
 
 ## 30.12 Di
 Tatort: Skigebiet, bei X
@@ -40,7 +40,7 @@ Hinweis: Quittung, Lückentext
 
 Aufgabe: Lückentext lösen
 
-Subhinweis: Nagellack an Quittung 
+Subhinweis: Name der Person, welche den Besen in den Service brachte, Svenja
 
 ## 31.12 Mi
 Tatort: Esssaal, Lückentext ist eine Quittung für die Schwingbesen revision.
@@ -61,7 +61,8 @@ Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
 Hinweise: über ganze Woche versteckte Subhinweise
 - Beat ist Christine und kanns nicht sein
 - Jemand hat nicht gerne Fruchtsalat-> Ladina kanns nicht sein
-- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Allegra, Svenja, Carla fallen aus
+- Die Person welche Besen in Service brachte kanns nicht gewesen sein, wäre ja dumm erst nach service zu stehlen -> Svenja
+- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Allegra, Carla fallen aus
 - Nagellack an Quittung deutet auf Frau hin-> Sandra und Salome bleiben übrig
 - Sandra ist nicht auf den Bildern im Ausgang zu sehen -> Salome bleibt übrig
 
