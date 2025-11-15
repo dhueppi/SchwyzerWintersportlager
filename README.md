@@ -12,7 +12,7 @@ Hinweis: Schuhabdruck, Schuhkontur auf A4
 
 Aufgabe: Passender Schuh zum Schuhabdruck finden.
 
-Subhinweis: 
+Subhinweis: Motiv: Fruchtsalat mit Schlagrahm ist egplant und geht jetzt nicht.
 
 ## 28.12 So
 Tatort: Skilagerdepot, Schuh ist dort
@@ -59,8 +59,8 @@ Subhinweis:
 Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
 
 Hinweise: über ganze Woche versteckte Subhinweise
+- Jemand hat nicht gerne Fruchtsalat
 - 
--
 
 Auflösung Täter: 
 
