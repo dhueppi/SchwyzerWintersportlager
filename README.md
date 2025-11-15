@@ -60,6 +60,7 @@ Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
 
 Hinweise: über ganze Woche versteckte Subhinweise
 - Jemand hat nicht gerne Fruchtsalat
+- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab
 - 
 
 Auflösung Täter: 
