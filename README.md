@@ -21,7 +21,7 @@ Hinweis: Namenstäfeli, Christine
 
 Aufgabe: Christine finden
 
-Subhinweis:
+Subhinweis: Allegra bestätig dass Sie die Schuhe schonmal gesehen hat, kann sich aber nicht ganz erinnern. Später bestätigt Christine, dass sie Allegra bei der Verfolgungsjagt gesehen hat.
 
 ## 29.12 Mo 
 Tatort: Beat "Christine"s Zimmer, Mädchenname
@@ -61,8 +61,9 @@ Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
 Hinweise: über ganze Woche versteckte Subhinweise
 - Beat ist Christine und kanns nicht sein
 - Jemand hat nicht gerne Fruchtsalat-> Ladina kanns nicht sein
-- Die Person welche Besen in Service brachte kanns nicht gewesen sein, wäre ja dumm erst nach service zu stehlen -> Svenja
-- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Allegra, Carla fallen aus
+- Die Person welche Besen in Service brachte kanns nicht gewesen sein, wäre ja dumm erst nach service zu stehlen -> Svenja fällt aus
+- Da dChririne bestätigt Allegra bei der Verfolgungsjagt gesehen zu haben, kann Allegra nicht der Täter sein.
+- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Carla fallen aus
 - Nagellack an Quittung deutet auf Frau hin-> Sandra und Salome bleiben übrig
 - Sandra ist nicht auf den Bildern im Ausgang zu sehen -> Salome bleibt übrig
 
