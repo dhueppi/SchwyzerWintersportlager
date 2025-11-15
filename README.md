@@ -37,9 +37,20 @@ Aufgabe: Lückentext lösen
 ## 31.12 Mi
 Tatort: Esssaal, Lückentext ist eine Quittung für die Schwingbesen revision.
 Aber der Schwingbesen hätte schon längst zurück sein sollen, Christine erklärt, dass sie den Räuber erst nach der Retournierung aus dem Service verfolgt hat.
+Aber es gibt Bilder von Überwachungskammera von der Verfolgungsjagt Räuber und Christine
 
-Hinweis:
+Hinweis: Diashow mit zahlreichen Aufnahmen der Verfolgungsjagt
+Verfolgungsjagd:
+Aufnahmen des Leiteraisganges mit Schwingbesen dabi.
 
-Aufgabe
+Aufgabe: Täter auf den Bildern identifizieren, Am Ende läuft ein Täter (nicht klar wer) mit Schwingbesen aus der Bar richtung Gondelbahn.
 
 ## 01.01 Do
+Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
+
+Hinweise: über ganze Woche versteckte Subhinweise
+- 
+-
+
+Auflösung Täter: 
+
