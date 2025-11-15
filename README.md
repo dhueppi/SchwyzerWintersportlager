@@ -53,7 +53,7 @@ Aufnahmen des Leiteraisganges mit Schwingbesen dabi.
 
 Aufgabe: Täter auf den Bildern identifizieren, Am Ende läuft ein Täter (nicht klar wer) mit Schwingbesen aus der Bar richtung Gondelbahn.
 
-Subhinweis:
+Subhinweis: Sandra fehlt auf den Fotos
 
 ## 01.01 Do
 Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
