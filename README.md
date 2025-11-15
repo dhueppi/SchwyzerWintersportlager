@@ -63,6 +63,7 @@ Hinweise: über ganze Woche versteckte Subhinweise
 - Jemand hat nicht gerne Fruchtsalat-> Ladina kanns nicht sein
 - Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Allegra, Svenja, Carla fallen aus
 - Nagellack an Quittung deutet auf Frau hin-> Sandra und Salome bleiben übrig
+- Sandra ist nicht auf den Bildern im Ausgang zu sehen -> Salome bleibt übrig
 
 Auflösung Täter: Salome Enzler 
 
