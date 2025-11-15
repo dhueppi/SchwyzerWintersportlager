@@ -63,5 +63,5 @@ Hinweise: über ganze Woche versteckte Subhinweise
 - Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab
 - 
 
-Auflösung Täter: 
+Auflösung Täter: Salome Enzler 
 
