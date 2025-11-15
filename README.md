@@ -12,12 +12,16 @@ Hinweis: Schuhabdruck, Schuhkontur auf A4
 
 Aufgabe: Passender Schuh zum Schuhabdruck finden.
 
+Subhinweis: 
+
 ## 28.12 So
 Tatort: Skilagerdepot, Schuh ist dort
 
 Hinweis: Namenstäfeli, Christine
 
 Aufgabe: Christine finden
+
+Subhinweis:
 
 ## 29.12 Mo 
 Tatort: Beat "Christine"s Zimmer, Mädchenname
@@ -27,12 +31,16 @@ Karte mit Verfolgungsspur und X wird abgeben.
 
 Aufgabe: Ort mit X in Skigebiet finden
 
+Subhinweis:
+
 ## 30.12 Di
 Tatort: Skigebiet, bei X
 
 Hinweis: Quittung, Lückentext
 
 Aufgabe: Lückentext lösen
+
+Subhinweis:
 
 ## 31.12 Mi
 Tatort: Esssaal, Lückentext ist eine Quittung für die Schwingbesen revision.
@@ -44,6 +52,8 @@ Verfolgungsjagd:
 Aufnahmen des Leiteraisganges mit Schwingbesen dabi.
 
 Aufgabe: Täter auf den Bildern identifizieren, Am Ende läuft ein Täter (nicht klar wer) mit Schwingbesen aus der Bar richtung Gondelbahn.
+
+Subhinweis:
 
 ## 01.01 Do
 Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
