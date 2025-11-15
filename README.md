@@ -12,7 +12,7 @@ Hinweis: Schuhabdruck, Schuhkontur auf A4
 
 Aufgabe: Passender Schuh zum Schuhabdruck finden.
 
-Subhinweis: Motiv: Fruchtsalat mit Schlagrahm ist egplant und geht jetzt nicht.
+Subhinweis: Motiv: Fruchtsalat mit Schlagrahm ist geplant und geht jetzt nicht.
 
 ## 28.12 So
 Tatort: Skilagerdepot, Schuh ist dort
@@ -40,7 +40,7 @@ Hinweis: Quittung, Lückentext
 
 Aufgabe: Lückentext lösen
 
-Subhinweis:
+Subhinweis: Nagellack an Quittung 
 
 ## 31.12 Mi
 Tatort: Esssaal, Lückentext ist eine Quittung für die Schwingbesen revision.
@@ -59,9 +59,10 @@ Subhinweis:
 Tatort: Esssaal, alle Leiter sind angeklagt, wer war es?
 
 Hinweise: über ganze Woche versteckte Subhinweise
-- Jemand hat nicht gerne Fruchtsalat
-- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab
-- 
+- Beat ist Christine und kanns nicht sein
+- Jemand hat nicht gerne Fruchtsalat-> Ladina kanns nicht sein
+- Die Person musste vor dem Diebstahl wissen, dass es Fruchtsalat gab-> Yannick, Allegra, Svenja, Carla fallen aus
+- Nagellack an Quittung deutet auf Frau hin-> Sandra und Salome bleiben übrig
 
 Auflösung Täter: Salome Enzler 
 
